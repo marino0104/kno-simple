@@ -1,0 +1,17 @@
+commit 079bc8cb636d60694c36ff1aac14bc69b8466e48
+Author: Marino <marino_0104@hotmail.com>
+Date:   Fri Dec 11 20:10:03 2015 -0500
+
+    retirados estilos blockquote
+
+commit d30be8a5fe1de84d23e92252b34cffbf6eaa27c3
+Author: Marino <marino_0104@hotmail.com>
+Date:   Fri Dec 11 20:05:41 2015 -0500
+
+    twitter fuera
+
+commit c6d315ed33d00ad1d6f69701e71c20dc55ec72cd
+Author: Marino <marino_0104@hotmail.com>
+Date:   Fri Dec 11 20:01:19 2015 -0500
+
+    Inicio
